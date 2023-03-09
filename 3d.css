@@ -1,0 +1,8 @@
+.z-text {
+    transform: rotateX(-10deg) rotateY(360deg);
+ }
+
+.z-layer:not(:first-child) {
+    color: #455a64;
+    filter: brightness(0.7);
+ }
